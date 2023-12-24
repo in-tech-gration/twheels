@@ -1,5 +1,7 @@
 # Training Wheels for Programming
 
+## aka NewbieScript
+
 ![](training.wheels.png)
 
 **Let’s face it: learning HTML, CSS and JavaScript is pretty hard.** Part of the reason is that these languages have some inherent characteristics that make it very hard for beginners to begin their journey. 
